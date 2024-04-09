@@ -1,3 +1,4 @@
+from ._anvil_designer import Form1Template
 from anvil import *
 import anvil.tables as tables
 from anvil.tables import app_tables

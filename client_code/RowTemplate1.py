@@ -1,3 +1,4 @@
+from ._anvil_designer import RowTemplate1Template
 from anvil import *
 import anvil.server
 import anvil.tables as tables
